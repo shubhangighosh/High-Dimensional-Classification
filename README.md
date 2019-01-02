@@ -10,10 +10,10 @@ numpy
 pandas  
 fancyimpute  
 The dependencies can be installed by:  
-`pip install -U scikit-learn \ 
-sudo pip install keras  \
-sudo pip install numpy  \
-pip install pandas fancyimpute  \`
+`pip install -U scikit-learn  
+sudo pip install keras  
+sudo pip install numpy  
+pip install pandas fancyimpute  `
 
 For clarification,  
 Homogenous -> 1 type of classifier used (in ensemble or alone)  
